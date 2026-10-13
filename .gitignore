@@ -1,0 +1,19 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+
+# 签名材料（含私钥，禁止提交）
+/signature
+*.p12
+*.cer
+*.p7b
+*.keystore
+*.jks

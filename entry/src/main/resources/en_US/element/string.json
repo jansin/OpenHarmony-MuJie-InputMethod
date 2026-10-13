@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "沐界输入法"
+    },
+    {
+      "name": "Private_data",
+      "value": "Private data"
+    },
+    {
+      "name": "Preview_Text",
+      "value": "Preview Text"
+    },
+    {
+      "name": "Private_tip",
+      "value": "Please input account number"
+    },
+    {
+      "name": "Preview_tip",
+      "value": "Please input preview content"
+    },
+    {
+      "name": "selection",
+      "value": "Selection"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "沐界输入法"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "extension_ability_descripter",
+      "value": "soft input extension by mujie"
+    },
+    {
+      "name": "entry_desc",
+      "value": "Input extension"
+    }
+  ]
+}
